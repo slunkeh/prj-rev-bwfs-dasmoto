@@ -1,0 +1,40 @@
+h1 {
+  font-family: helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("/Users/gavinmcintosh/Desktop/Projects/Dasmoto/resources/images/pattern.jpeg");
+}
+.brushes {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+.frames {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+.paint {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+h3 {
+  font-family: helvetica;
+}
+p {
+font-family: helvetica
+}
+.price {
+  font-family: helvetica;
+  font-weight: bold;
+  color: blue;
+}
